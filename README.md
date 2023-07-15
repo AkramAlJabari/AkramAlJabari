@@ -8,9 +8,6 @@
 </div>
 <h1 align="center">Info About Me🤔 ?</h1> 
 <h3>My Name is Akram AlJabari, My age is "17" i'am from Jordan. </h3>
-
-- A Simple Developer 😁
-
 <h1 id="skills" align="center">My Languages And Library's🎓</h1> 
 
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
