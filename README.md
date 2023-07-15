@@ -27,9 +27,6 @@
  <h2 align="center">My Github Stats 👨‍💻</h1>
   <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=AkramAlJabari&show_icons=true&theme=tokyonight"/>
-<br />
-<br />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramAlJabari&layout=compac&langs_count=8t&theme=tokyonight"/>
 </div>
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
