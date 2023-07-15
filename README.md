@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=AkramAlJabari"/>
 </div>
 <h1 align="center">Info About Me🤔 ?</h1> 
-<h3>My Name is Akram AlJabari, My age is "16" i'am from Jordan. </h3>
+<h3>My Name is Akram AlJabari, My age is "17" i'am from Jordan. </h3>
 
 - A Simple Developer 😁
 
